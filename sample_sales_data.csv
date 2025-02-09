@@ -1,0 +1,201 @@
+date,category,value,product,sales,region
+2024-12-16,Electronics,91.85,Washing Machine,82.0,North
+2024-02-09,Electronics,377.03,Toy Car,,West
+2024-03-30,Clothing,62.35,Jeans,44.0,West
+2024-07-01,Clothing,70.62,Refrigerator,69.0,North
+2024-07-16,Electronics,410.85,Sofa,30.0,West
+2024-02-19,Toys,158.73,Toy Car,98.0,West
+2024-04-03,Furniture,386.86,Sofa,63.0,South
+2024-02-14,Clothing,357.54,Sofa,79.0,East
+2024-02-27,Home Appliances,405.43,Board Game,11.0,East
+2024-08-01,Toys,56.7,Smartphone,26.0,East
+2024-07-23,Home Appliances,314.19,Jeans,7.0,West
+2024-02-19,Home Appliances,482.81,Board Game,22.0,West
+2024-04-20,Toys,410.11,Smartphone,84.0,South
+2024-07-23,Home Appliances,440.23,Toy Car,61.0,West
+2025-01-26,Clothing,,Smartphone,59.0,South
+2024-12-30,Books,495.4,Board Game,36.0,West
+2024-08-01,Furniture,490.45,Washing Machine,80.0,South
+2024-09-24,Furniture,369.61,Sofa,34.0,East
+2024-04-01,Clothing,53.68,Refrigerator,95.0,South
+2024-09-10,Books,213.44,Sofa,79.0,West
+2024-04-10,Home Appliances,339.76,Toy Car,87.0,South
+2024-12-14,Furniture,301.74,Washing Machine,66.0,South
+2024-08-09,Clothing,170.55,Board Game,34.0,West
+2024-02-15,Clothing,215.65,Novel,64.0,East
+2024-12-26,Furniture,476.58,Shirt,35.0,East
+2024-05-08,Furniture,396.89,Smartphone,27.0,South
+2024-04-06,Home Appliances,467.95,Jeans,91.0,North
+2025-01-02,Clothing,487.39,Shirt,32.0,East
+2024-05-25,Electronics,347.26,Toy Car,76.0,East
+2024-04-14,Toys,492.26,Jeans,35.0,East
+2024-03-29,Furniture,181.61,Smartphone,8.0,North
+2024-08-27,Clothing,102.71,Novel,62.0,East
+2024-04-02,Clothing,172.69,Toy Car,16.0,South
+2025-01-30,Home Appliances,106.31,Refrigerator,12.0,East
+2024-04-18,Toys,,Smartphone,62.0,West
+2024-06-29,Home Appliances,356.06,Refrigerator,42.0,North
+2024-04-19,Books,266.81,Jeans,43.0,West
+2024-06-07,Toys,490.12,Jeans,81.0,East
+2024-04-22,Books,,Board Game,52.0,East
+2024-07-22,Home Appliances,345.33,Smartphone,58.0,West
+2024-12-28,Clothing,203.03,Shirt,82.0,South
+2024-09-27,Clothing,,Washing Machine,91.0,North
+2024-05-11,Clothing,358.96,Smartphone,84.0,West
+2024-06-22,Clothing,331.86,Smartphone,68.0,East
+2024-09-11,Clothing,366.99,Laptop,99.0,North
+2024-09-16,Toys,366.39,Washing Machine,97.0,North
+2024-02-10,Furniture,209.48,Laptop,25.0,South
+2024-02-16,Books,,Refrigerator,89.0,West
+2024-06-23,Electronics,180.9,Jeans,12.0,East
+2024-09-10,Clothing,489.03,Jeans,98.0,North
+2024-04-28,Electronics,244.26,Sofa,81.0,South
+2024-11-30,Toys,,Toy Car,89.0,South
+2024-09-07,Books,386.61,Novel,14.0,North
+2024-09-14,Electronics,382.9,Shirt,3.0,North
+2024-08-16,Toys,452.78,Shirt,98.0,East
+2024-03-13,Toys,110.93,Board Game,86.0,West
+2025-01-27,Furniture,157.71,Laptop,8.0,West
+2024-12-25,Furniture,189.46,Laptop,,South
+2024-09-19,Books,,Washing Machine,64.0,South
+2025-02-04,Toys,205.69,Washing Machine,77.0,East
+2024-07-06,Furniture,367.12,Sofa,64.0,South
+2024-06-18,Books,,Washing Machine,87.0,South
+2024-09-01,Electronics,492.56,Board Game,61.0,North
+2025-01-07,Books,298.8,Novel,84.0,East
+2024-10-01,Clothing,317.07,Shirt,16.0,East
+2024-11-04,Electronics,137.46,Toy Car,,North
+2024-04-10,Electronics,272.62,Jeans,92.0,East
+2024-05-04,Electronics,376.05,Novel,49.0,East
+2024-09-24,Clothing,115.2,Refrigerator,36.0,East
+2024-09-11,Home Appliances,222.63,Toy Car,66.0,East
+2024-07-27,Home Appliances,209.67,Laptop,86.0,South
+2024-10-17,Home Appliances,132.89,Laptop,24.0,North
+2024-08-24,Toys,353.88,Toy Car,36.0,West
+2024-12-29,Books,68.94,Washing Machine,73.0,East
+2024-06-18,Clothing,,Sofa,71.0,West
+2024-06-08,Home Appliances,100.73,Novel,81.0,West
+2024-02-15,Books,,Board Game,65.0,South
+2024-10-17,Books,243.45,Laptop,63.0,South
+2024-09-29,Clothing,233.57,Refrigerator,10.0,South
+2024-06-21,Toys,184.16,Smartphone,73.0,South
+2024-08-03,Furniture,127.22,Toy Car,4.0,South
+2024-10-11,Home Appliances,371.11,Washing Machine,5.0,East
+2024-05-13,Toys,291.91,Shirt,96.0,East
+2024-09-02,Clothing,70.87,Laptop,32.0,North
+2025-01-31,Furniture,215.93,Board Game,56.0,East
+2024-03-05,Electronics,452.36,Board Game,17.0,North
+2024-11-29,Books,295.42,Smartphone,50.0,South
+2024-07-30,Clothing,132.28,Toy Car,6.0,East
+2024-09-14,Books,179.56,Toy Car,3.0,East
+2025-02-02,Toys,,Board Game,95.0,South
+2024-08-08,Home Appliances,279.08,Jeans,37.0,East
+2025-01-12,Books,140.72,Refrigerator,33.0,North
+2025-02-08,Home Appliances,,Smartphone,50.0,South
+2024-02-12,Toys,414.39,Laptop,84.0,North
+2025-01-10,Home Appliances,402.3,Novel,66.0,North
+2025-01-28,Clothing,,Shirt,54.0,South
+2024-04-27,Toys,,Board Game,93.0,North
+2024-05-21,Home Appliances,313.78,Toy Car,26.0,East
+2024-08-20,Clothing,118.67,Board Game,71.0,South
+2024-02-23,Furniture,190.57,Washing Machine,34.0,West
+2024-10-02,Home Appliances,354.01,Shirt,94.0,North
+2024-10-21,Electronics,169.25,Novel,7.0,South
+2024-09-04,Clothing,169.05,Sofa,25.0,North
+2024-03-05,Toys,464.97,Shirt,,North
+2024-05-02,Furniture,108.25,Novel,40.0,North
+2024-05-19,Toys,342.66,Washing Machine,57.0,East
+2024-06-23,Electronics,206.66,Shirt,33.0,East
+2024-12-17,Clothing,402.31,Jeans,31.0,East
+2024-03-14,Home Appliances,97.77,Washing Machine,87.0,North
+2024-03-24,Home Appliances,236.01,Refrigerator,96.0,West
+2024-09-18,Electronics,446.67,Refrigerator,25.0,North
+2024-06-12,Toys,332.28,Shirt,89.0,South
+2025-01-24,Electronics,301.05,Novel,42.0,North
+2024-11-08,Home Appliances,,Smartphone,36.0,South
+2024-09-19,Home Appliances,294.56,Shirt,54.0,East
+2024-08-02,Home Appliances,416.23,Jeans,81.0,North
+2024-07-25,Electronics,198.06,Novel,6.0,North
+2025-01-05,Clothing,60.82,Board Game,,North
+2024-12-18,Toys,304.51,Board Game,,East
+2024-12-29,Furniture,165.16,Novel,8.0,East
+2024-08-05,Electronics,406.85,Washing Machine,53.0,East
+2024-11-18,Furniture,70.14,Novel,2.0,West
+2024-11-07,Furniture,,Washing Machine,73.0,North
+2024-12-16,Furniture,70.45,Toy Car,68.0,East
+2025-01-30,Home Appliances,,Smartphone,,South
+2024-04-13,Clothing,230.93,Sofa,90.0,East
+2024-02-16,Furniture,404.32,Shirt,79.0,West
+2024-02-21,Home Appliances,336.32,Novel,81.0,North
+2024-08-06,Electronics,368.81,Sofa,3.0,West
+2024-10-15,Books,130.83,Jeans,22.0,South
+2025-02-04,Home Appliances,221.16,Washing Machine,53.0,South
+2024-10-03,Home Appliances,116.33,Toy Car,,North
+2024-05-20,Home Appliances,56.75,Novel,38.0,North
+2024-08-05,Toys,185.06,Sofa,73.0,West
+2024-09-26,Books,482.23,Jeans,,West
+2024-07-11,Clothing,244.13,Washing Machine,20.0,West
+2024-12-20,Toys,285.43,Jeans,20.0,West
+2024-04-20,Electronics,127.13,Board Game,84.0,West
+2024-07-31,Toys,204.1,Washing Machine,18.0,North
+2024-07-27,Toys,231.89,Refrigerator,42.0,East
+2024-03-28,Clothing,218.0,Novel,82.0,North
+2024-02-26,Clothing,421.12,Washing Machine,13.0,North
+2025-02-01,Toys,64.39,Novel,42.0,South
+2025-01-03,Toys,,Board Game,,East
+2024-10-31,Toys,442.79,Board Game,18.0,North
+2024-03-23,Clothing,159.46,Smartphone,68.0,West
+2024-11-23,Electronics,293.04,Novel,4.0,North
+2024-12-01,Electronics,110.69,Board Game,11.0,South
+2024-09-11,Furniture,278.91,Shirt,91.0,West
+2024-08-21,Electronics,86.04,Shirt,58.0,East
+2024-10-13,Clothing,233.98,Washing Machine,,North
+2024-03-28,Electronics,93.4,Sofa,87.0,East
+2024-05-20,Electronics,276.32,Shirt,18.0,East
+2025-01-03,Electronics,,Jeans,44.0,East
+2024-04-09,Clothing,422.77,Shirt,79.0,West
+2024-12-03,Clothing,470.49,Washing Machine,28.0,East
+2024-10-11,Clothing,319.35,Board Game,21.0,West
+2024-02-21,Home Appliances,457.84,Refrigerator,35.0,East
+2024-06-29,Toys,329.78,Washing Machine,67.0,North
+2024-10-19,Toys,408.51,Board Game,58.0,North
+2024-08-24,Home Appliances,214.53,Jeans,26.0,North
+2024-07-31,Books,105.25,Novel,22.0,East
+2024-11-30,Clothing,175.97,Washing Machine,57.0,East
+2024-11-09,Electronics,193.84,Laptop,86.0,West
+2025-02-05,Electronics,138.48,Jeans,60.0,South
+2024-11-29,Clothing,218.63,Novel,71.0,East
+2024-06-27,Books,415.83,Toy Car,27.0,North
+2024-11-17,Furniture,489.32,Smartphone,88.0,North
+2024-05-02,Home Appliances,346.03,Refrigerator,,East
+2024-09-19,Books,322.91,Shirt,91.0,South
+2024-08-07,Books,393.37,Sofa,79.0,South
+2024-02-19,Clothing,322.15,Refrigerator,90.0,West
+2025-01-31,Home Appliances,340.48,Laptop,51.0,East
+2024-05-01,Home Appliances,444.67,Sofa,60.0,South
+2024-04-29,Books,334.3,Toy Car,25.0,West
+2024-08-26,Electronics,176.89,Board Game,,East
+2024-12-21,Electronics,54.15,Board Game,20.0,North
+2024-11-20,Home Appliances,61.45,Laptop,41.0,East
+2024-07-11,Clothing,134.47,Smartphone,3.0,East
+2024-06-13,Clothing,169.6,Jeans,90.0,East
+2024-05-06,Electronics,131.47,Sofa,45.0,East
+2024-10-05,Clothing,467.89,Sofa,88.0,West
+2024-12-05,Clothing,122.62,Novel,67.0,West
+2024-08-24,Furniture,396.91,Laptop,79.0,West
+2024-08-23,Toys,105.05,Board Game,,South
+2024-02-27,Electronics,374.71,Jeans,35.0,East
+2024-12-20,Clothing,132.02,Jeans,,West
+2024-09-08,Toys,384.82,Sofa,87.0,South
+2024-11-14,Electronics,,Novel,67.0,West
+2025-01-25,Electronics,218.32,Sofa,64.0,West
+2025-01-06,Electronics,397.5,Jeans,44.0,West
+2024-08-29,Clothing,481.12,Jeans,83.0,East
+2024-03-06,Clothing,222.52,Shirt,82.0,North
+2025-02-08,Furniture,151.44,Laptop,40.0,East
+2025-02-06,Home Appliances,495.89,Novel,,South
+2024-11-26,Electronics,,Washing Machine,77.0,East
+2024-05-07,Clothing,302.03,Shirt,56.0,South
+2024-12-06,Books,190.89,Washing Machine,95.0,West
+2024-03-03,Home Appliances,354.14,Smartphone,5.0,South
+2024-02-18,Furniture,462.7,Washing Machine,10.0,East
